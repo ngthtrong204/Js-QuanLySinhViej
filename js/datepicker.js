@@ -5,7 +5,7 @@ $( function() {
         buttonImage: "img/calendar-icon.png",
         buttonImageOnly: true,
         buttonText: "Select date",
-        dateFormat: "mm/dd/yy"
+        dateFormat: "dd/mm/yy"
 
     });
 } );
